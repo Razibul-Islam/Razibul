@@ -28,7 +28,7 @@ export default function Home() {
         <div className="h-[88vh] w-full mx-auto p-4">
           <Banner />
           <About />
-          <Experience />
+          {/* <Experience /> */}
           <Projects />
           <Archive />
           <Contact />
